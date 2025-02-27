@@ -1409,7 +1409,7 @@
         "mode": "chat",
         "supports_function_calling": true,
         "supports_parallel_function_calling": true,
-        "deprecation_date": "2025-03-31",
+        "deprecation_date": "2025-05-31",
         "supports_tool_choice": true
     },
     "azure/gpt-3.5-turbo-0125": {
